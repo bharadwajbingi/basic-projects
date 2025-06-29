@@ -2,8 +2,6 @@
 
 A clean and minimal login page built using HTML and CSS. This project demonstrates basic layout structuring with Flexbox, transparent input styling, and responsive design.
 
-![alt text](image.png)
-
 ## 🔥 Features
 
 - Dark mode background
@@ -35,10 +33,9 @@ A clean and minimal login page built using HTML and CSS. This project demonstrat
 
 ## 📷 Preview
 
-Replace this with a screenshot if you want:
-
 ```
-[ Add Screenshot Here ]
+![alt text](image.png)
+
 ```
 
 ## 💡 Customization Tips
