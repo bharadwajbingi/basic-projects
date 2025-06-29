@@ -33,13 +33,15 @@ A clean and minimal login page built using HTML and CSS. This project demonstrat
 
 ## 📷 Preview
 
-```
 ![alt text](image.png)
-
-```
 
 ## 💡 Customization Tips
 
 - Replace `access.png` with your own logo or image.
 - Modify colors and layout in `style.css`.
 - Add JavaScript for password visibility toggles or form validation.
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+Feel free to use and modify it for personal or commercial projects.
